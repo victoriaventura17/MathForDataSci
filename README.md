@@ -4,7 +4,7 @@
 ## Goals
 Detect whther a person is in a pool or not, by using a security camera. This will help lessen drowning deaths.
 ## Why is this important?
-Drowning Deaths are one of the top reasons for death in young children. Drowning deaths are preventable and can be prevented with safety guards in place. 
+Drowning deaths are one of the top reasons for death in young children. Drowning deaths are preventable and can be prevented with safety guards in place. 
 
 ## Data Collection
 Using AlexNet we can detect whether there is a person in a pool or not. The dataset used consisted of 25 pictures of people in pools and 25 pictures of pools without people inside. 
