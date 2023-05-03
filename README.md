@@ -1,4 +1,5 @@
 # AquaAlert
+<img src='https://github.com/victoriaventura17/MathForDataSci/blob/main/AquaAlert%20(500%20×%20250%20px).png?raw=true'>
 
 ## Goals
 ## Why is this important?
