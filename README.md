@@ -2,7 +2,7 @@
 <img src='https://github.com/victoriaventura17/MathForDataSci/blob/main/AquaAlert%20(500%20×%20250%20px).png?raw=true'>
 
 ## Goals
-Detect whther a person is in a pool or not, by using a security camera. This will help lessen drowning deaths.
+Detect whether a person is in a pool or not, by using a security camera. This will help lessen drowning deaths, spscifically in children.
 ## Why is this important?
 Drowning deaths are one of the top reasons for death in young children. Drowning deaths are preventable and can be prevented with safety guards in place. 
 
